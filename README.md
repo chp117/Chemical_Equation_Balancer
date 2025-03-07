@@ -56,6 +56,3 @@ Chemical formula of product molecule 1 --> H2O
 - Add support for ionic equations and charge balancing.
 - Enhance input validation and error handling.
 
-## Author
-Developed by Chae-Hyun Park
-
