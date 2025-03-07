@@ -57,5 +57,5 @@ Chemical formula of product molecule 1 --> H2O
 - Enhance input validation and error handling.
 
 ## Author
-Developed by [Your Name]
+Developed by Chae-Hyun Park
 
